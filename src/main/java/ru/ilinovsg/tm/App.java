@@ -23,7 +23,7 @@ public class App {
         final String param = args[0];
         final int result = run(param);
         System.exit(result);
-        }
+    }
 
     private static int run(final String param){
         if(param == null) return -1;
