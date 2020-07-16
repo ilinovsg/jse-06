@@ -6,6 +6,7 @@
 
 #### 2. Разработчик
 Name: Ilinov Sergey;
+
 Email: Ilyinov_sg@nlmk.com
 
 #### 3. Команды для сборки приложения
