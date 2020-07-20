@@ -1,15 +1,24 @@
 # Проект Task Manager
 
-# 1. Требования к  SOFTWARE
+# 1. Стек технологий 
+- OpenJDK 
+- Apach Maven 
+
+# 2. Требования к HARDWARE
+- CPU Intel i-5, от 3Ггц
+- RAM 16 Гб 
+
+# 3. Требования к SOFTWARE
+- ОС Windows 10
 - OpenJDK 11
 - Apach Maven 3.6
 
-# 2. Разработчик
+# 4. Разработчик
 Name: Ilinov Sergey;
 
 Email: Ilyinov_sg@nlmk.com
 
-# 3. Cборка приложения
+# 5. Cборка приложения
 ```mvn clean``` - Удаление всех созданных в процессе сборки артефактов
 
 ```mvn compile``` - Компилирование проекта
@@ -20,7 +29,7 @@ Email: Ilyinov_sg@nlmk.com
 
 ```mvn deploy``` - Публикация файла в удалённый репозиторий
 
-# 4. Запуск приложения
+# 6. Запуск приложения
 
 Команда для запуска приложения:
 ```
