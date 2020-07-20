@@ -5,7 +5,7 @@
 - Apach Maven 
 
 # 2. Требования к HARDWARE
-- CPU Intel i-5, от 3Ггц
+- CPU Intel Core i-5, от 3Ггц
 - RAM 16 Гб 
 
 # 3. Требования к SOFTWARE
