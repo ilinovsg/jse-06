@@ -1,24 +1,27 @@
 # Проект Task Manager
 
-# 1. Стек технологий 
+# 1. Резервная копия
+https://github.com/ilinovsg/jse-06
+
+# 2. Стек технологий 
 - OpenJDK 
 - Apach Maven 
 
-# 2. Требования к HARDWARE
+# 3. Требования к HARDWARE
 - CPU Intel Core i-5, от 3Ггц
 - RAM 16 Гб 
 
-# 3. Требования к SOFTWARE
+# 4. Требования к SOFTWARE
 - ОС Windows 10
 - OpenJDK 11
 - Apach Maven 3.6
 
-# 4. Разработчик
+# 5. Разработчик
 Name: Ilinov Sergey;
 
 Email: Ilyinov_sg@nlmk.com
 
-# 5. Cборка приложения
+# 6. Cборка приложения
 ```mvn clean``` - Удаление всех созданных в процессе сборки артефактов
 
 ```mvn compile``` - Компилирование проекта
@@ -29,7 +32,7 @@ Email: Ilyinov_sg@nlmk.com
 
 ```mvn deploy``` - Публикация файла в удалённый репозиторий
 
-# 6. Запуск приложения
+# 7. Запуск приложения
 
 Команда для запуска приложения:
 ```
